@@ -1,4 +1,4 @@
-# Hello! I'm Nithin 
+# Hello! I'm Nithin 👋
 ### I'm a **software engineer student**, a **designer** and a very **passionated person**, interested in opensource projects and web development. 
 
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&color=242933&link=https://www.instagram.com/gnithin126/)](https://www.instagram.com/gnithin126/)
