@@ -1,6 +1,6 @@
 # Hello! I'm Nithin 👋
 ### I'm a **software engineer student**, a **designer** and a very **passionated person**, interested in opensource projects and web development. 
-<img src="https://github-readme-stats.vercel.app/api?username=appleflavoredfart&&show_icons=true&title_color=&icon_color=#ac7e62&text_color=#bbcfd7&bg_color=E#191919">
+
 
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&color=242933&link=https://www.instagram.com/tobirama_senjubtw/)](https://www.instagram.com/tobirama_senjubtw/)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&color=242933&logo=twitter&logoColor=white&link=https://twitter.com/126nithin)](https://twitter.com/126nithin) 
